@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SCR01/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SCR01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/SCR01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCR01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0486-predict-the-winner](https://github.com/SCR01/LeetCode/tree/master/0486-predict-the-winner) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SCR01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SCR01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SCR01/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SCR01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/SCR01/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
