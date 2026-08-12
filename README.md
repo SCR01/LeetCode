@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SCR01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCR01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/SCR01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/SCR01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SCR01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SCR01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SCR01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SCR01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SCR01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SCR01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SCR01/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SCR01/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SCR01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SCR01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SCR01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SCR01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
