@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SCR01/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SCR01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SCR01/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/SCR01/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SCR01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SCR01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCR01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SCR01/LeetCode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SCR01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SCR01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SCR01/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SCR01/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
