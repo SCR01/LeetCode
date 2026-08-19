@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCR01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SCR01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/SCR01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SCR01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SCR01/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/SCR01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SCR01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SCR01/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SCR01/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SCR01/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SCR01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SCR01/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SCR01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -276,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SCR01/LeetCode/tree/master/0056-merge-intervals) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
