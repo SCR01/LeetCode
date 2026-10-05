@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SCR01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCR01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/SCR01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SCR01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SCR01/LeetCode/tree/master/0486-predict-the-winner) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SCR01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SCR01/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SCR01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SCR01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/SCR01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SCR01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/SCR01/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SCR01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/SCR01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SCR01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SCR01/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SCR01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SCR01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SCR01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SCR01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SCR01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SCR01/LeetCode/tree/master/0229-majority-element-ii) |
 ## Ordered Set
 |  |
