@@ -1,38 +1,50 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int cnt1 = 0;
-        int cnt2 = 0;
-        int el1 = INT_MIN;
-        int el2 = INT_MIN;
-        int n = nums.size();
-        for(int i = 0;i<n;i++){
-            if(cnt1 == 0 && el2!=nums[i]){
-                cnt1 = 1;
-                el1 = nums[i];
+        int count1 = 0;
+        int count2 = 0;
+        int candi1=0;
+        int candi2 =0;
+        for(int i = 0;i<nums.size();i++){
+            if(count1 == 0 && nums[i] !=candi2){
+                count1 = 1;
+                candi1 = nums[i];
             }
-            else if(cnt2 == 0 && el1 != nums[i]){
-                cnt2 = 1;
-                el2 = nums[i];
+            else if(count2==0 && nums[i] !=candi1){
+                count2 = 1;
+                candi2 = nums[i];
             }
-            else if (el1 == nums[i]) cnt1++;
-            else if (el2 == nums[i]) cnt2++;
+            else if(candi1 == nums[i]){
+                count1++;
+            }
+            else if(candi2 == nums[i]){
+                count2++;
+            }
             else{
-                cnt1--, cnt2--;
+                count1--;
+                count2--;
             }
         }
 
-        vector<int> ls;
-        cnt1 = 0;
-         cnt2 = 0;
-        for(int i = 0;i<n;i++){
-            if(el1 == nums[i]) cnt1++;
-            if(el2 == nums[i]) cnt2++;
-        }
-        int mini = (int)(n/3) + 1;
-        if(cnt1>=mini) ls.push_back(el1);
-        if(cnt2>=mini)ls.push_back(el2);
-        sort(ls.begin(),ls.end());
-        return ls;
+        vector<int> result;
+        int threshold = nums.size()/3;
+
+        count1 = 0, count2 = 0;
+         for(int i = 0;i<nums.size();i++){
+            if(candi1 == nums[i]){
+                count1++;
+            }
+            else if(candi2 == nums[i]){
+                count2++;
+            }
+         }
+
+         if(count1>threshold){
+            result.push_back(candi1);
+         }
+         if(count2>threshold){
+            result.push_back(candi2);
+         }
+         return result;
     }
 };
